@@ -1,3 +1,3 @@
-# Strogonoff de Frango
-## Ingredientes
- - 1 quilo de peito de frango sem pele
+# Testando o GIT
+## Parágrafo 2
+ * Aqui é um texto qualquer.
